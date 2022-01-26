@@ -1,0 +1,4 @@
+Sitemap: https://arbitrandomuser.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
