@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  {{fd2rss website_title}}  ]]>
+      <![CDATA[  Arbit Random Blog  ]]>
     </title>
-    <link> {{website_url}} </link>
+    <link> https://arbitrandomuser.github.io </link>
     <description>
-      <![CDATA[  {{fd2rss website_description}}  ]]>
+      <![CDATA[  Example website using Franklin  ]]>
     </description>
     <atom:link
-      href="{{fd_rss_feed_url}}"
+      href="https://arbitrandomuser.github.io/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
